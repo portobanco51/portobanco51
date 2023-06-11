@@ -20,7 +20,7 @@
 
 <div align="left" width="200px" >
 
-<p align="left" >Hi there! I've been working as a Front-End Developer for over a year 👨🏽‍💻 <br>Also a Software Engineering student 📚 (currently learning databases and structures)<br><br> I am proficient in using React and JavaScript to build stunning and interactive web applications that engage and satisfy the end-users.<br><br>Meanwhile, team collaborating across Agile/Scrum Methodologies has led me to dive deep into data structures to understand how to efficiently manage and organize large data sets for great project scalability⚡</p>
+<p align="left" >Hi there! I've been working as a Front-End Developer for over a year 👨🏽‍💻 <br>Also a Software Engineering student 📚 (currently learning databases and structures)<br><br> I am proficient in using React and JavaScript to build stunning and interactive web applications that engage and satisfy the end-users.<br><br>Meanwhile, team collaborating across Agile/Scrum Methodologies has led me to dive deep into data structures to understand how to efficiently manage and organize large data sets for great project scalability (🚂,⛵) => (🚄,🚢)</p>
 </div>
 
 ###
