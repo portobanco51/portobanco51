@@ -10,7 +10,7 @@
 
 <div align="left" width="200px" >
 
-<p align="left" >Hi there! I've been working as a Full-Stack Developer for over 2 years 👨🏽‍💻 creating and optimizing web and app experiences along the way.<br> I am proficient in using React and JavaScript to build stunning and interactive software that engages and satisfies the end-users, also, well versed in Python and SQL for scalable efficiency and performance.<br><br>Meanwhile, team collaborating across Agile/Scrum Methodologies has allowed me to dive deep into data structures to understand how to efficiently manage and organize large data sets for great project scalability (🚂,⛵) => (🚄,🚢)</p>
+<p align="left" >Hi there! I've been working as a Software Engineer for over 2 years 👨🏽‍💻 creating and optimizing web and app experiences along the way.<br> I am proficient in using React and JavaScript to build stunning and interactive software that engages and satisfies the end-users, also, well versed in Python and SQL for scalable efficiency and performance.<br><br>Meanwhile, team collaborating across Agile/Scrum Methodologies has allowed me to dive deep into data structures to understand how to efficiently manage and organize large data sets for great project scalability (🚂,⛵) => (🚄,🚢)</p>
 </div>
 
 ###
