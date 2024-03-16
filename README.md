@@ -19,7 +19,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=linux" height="45" alt="linux logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=bash" height="45" alt="bash logo"  />
