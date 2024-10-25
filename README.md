@@ -10,7 +10,7 @@
 
 <div align="left" width="200px" >
 
-<p align="left" >Hi there! I've been working as a Software Engineer for over 4 years 👨🏽‍💻 creating and optimizing web and software experiences along the way.<br><br>Proficient engineer using React and JavaScript features to build stunning and interactive software that engages and satisfies the end-users, also professional in Python and SQL for scalable efficiency and performance.<br>Moreover, scripting experience using Bash, Python and Shell for automated software testing and deployment phases.<br><br>Meanwhile, team collaborating across Agile/Scrum Methodologies has allowed me to dive deep into data structures to understand how to efficiently manage and organize large data sets for great project scalability (🚂,⛵) => (🚄,🚢)</p>
+<p align="left">Hi there! I've been working as a Software Engineer for over 4 years 👨🏽‍💻 creating and optimizing web and software experiences along the way.<br><br>Proficient engineer using React and JavaScript features to build stunning and interactive software that engages and satisfies the end-users, also professional in Python and SQL for scalable efficiency and performance.<br>Moreover, scripting experience using Bash, Python and Shell for automated software testing and deployment phases.<br><br>Meanwhile, team collaborating across Agile/Scrum Methodologies has allowed me to dive deep into data structures to understand how to efficiently manage and organize large data sets for great project scalability (🚂,⛵) => (🚄,🚢)</p>
 </div>
 
 ###
@@ -20,53 +20,54 @@
 ###
 
 <div align="center">
+  <p align="center"><b>Full Stack:</b></p>
+  <img src="https://skillicons.dev/icons?i=nextjs" height="45" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="45" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=materialui" height="45" alt="materialui logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=threejs" height="45" alt="threejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="45" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="45" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=jest" height="45" alt="jest logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="45" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="45" alt="npm logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="45" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="mysql logo"  />
+  <img width="12" />
+</div>  
+</br>
+<div align="center">
+  <p align="center"><b>Automation / DevOps:</b></p>
   <img src="https://skillicons.dev/icons?i=linux" height="45" alt="linux logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=bash" height="45" alt="bash logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="45" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="45" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="45" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="45" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="45" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="45" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="45" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=jquery" height="45" alt="jquery logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="45" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="45" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="45" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=materialui" height="45" alt="materialui logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=threejs" height="45" alt="threejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="45" alt="nodejs logo"  />
+  <img src="https://skillicons.dev/icons?i=selenium" height="45" alt="selenium logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=django" height="45" alt="django logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=jest" height="45" alt="jest logo"  />
+  <img src="https://skillicons.dev/icons?i=terraform" height="45" alt="terraform logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="45" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="45" alt="mongodb logo"  />
+  <img src="https://skillicons.dev/icons?i=jenkins" height="45" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="45" alt="git logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="45" alt="github logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=netlify" height="45" alt="netlify logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=githubactions" height="45" alt="githubactions logo"  />
   <img width="12" />
 </div>
 
