@@ -10,7 +10,7 @@
 
 <div align="left" width="200px" >
 
-<p align="left">Hi there! I've been working as a Software Engineer for over 4 years 👨🏽‍💻 innovating and optimizing software experiences across Windows and Linux operative systems.</br></br>Proficient using React and JavaScript features to build stunning and interactive software that engages and targets the end-users, also well-versed in Python and SQL for scalable, efficient and performant solutions.</br></br>Currently focused in scripting using Bash, Python and Shell for automated software testing, continuous integration and deployment processes.</br></br>Meanwhile, collaborating across agile pace envronments teams has allowed me to dive deep into data structures to understand how to efficiently manage and organize large data sets for great project scalability (🚂,⛵) => (🚄,🚢)</p>
+<p align="left">Hi there! I've been working as a Software Engineer for over 4 years 👨🏽‍💻 innovating and optimizing software experiences across Windows and Linux operative systems.</br></br>Proficient using React and JavaScript features to build stunning and interactive software that engages and targets the end-users, also well-versed in Python and SQL for scalable, efficient and performant solutions.</br></br>Currently focused in scripting using Bash, Python and Shell for automated software testing, continuous integration and deployment processes.</br></br>Meanwhile, collaborating across agile paced teams has allowed me to deep dive into data structures to understand how to efficiently manage and organize large data sets for great project scalability (🚂,⛵) => (🚄,🚢)</p>
 </div>
 
 ###
