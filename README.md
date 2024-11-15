@@ -4,7 +4,7 @@
 
 ###
 
-<img align="right" height="270px" src="https://github.com/portobanco51/portobanco51/assets/76289550/79543d12-e7ee-459c-b1ff-71b557f66500"  />
+<img align="right" height="250px" src="https://github.com/portobanco51/portobanco51/assets/76289550/79543d12-e7ee-459c-b1ff-71b557f66500"  />
 
 ###
 
