@@ -4,14 +4,13 @@
 
 ###
 
-<img align="right" height="255" src="https://github.com/portobanco51/portobanco51/assets/76289550/79543d12-e7ee-459c-b1ff-71b557f66500"  />
-</br>
+<img align="right" height="270px" src="https://github.com/portobanco51/portobanco51/assets/76289550/79543d12-e7ee-459c-b1ff-71b557f66500"  />
 
 ###
 
 <div align="left" width="200px" >
 
-<p align="left">Hi there! I've been working as a Software Engineer for over 4 years 👨🏽‍💻 creating and optimizing web and software experiences along the way.<br><br>Proficient engineer using React and JavaScript features to build stunning and interactive software that engages and satisfies the end-users, also professional in Python and SQL for scalable efficiency and performance.<br>Moreover, scripting experience using Bash, Python and Shell for automated software testing and deployment phases.<br><br>Meanwhile, team collaborating across Agile/Scrum Methodologies has allowed me to dive deep into data structures to understand how to efficiently manage and organize large data sets for great project scalability (🚂,⛵) => (🚄,🚢)</p>
+<p align="left">Hi there! I've been working as a Software Engineer for over 4 years 👨🏽‍💻 innovating and optimizing software experiences across Windows and Linux operative systems.</br></br>Proficient using React and JavaScript features to build stunning and interactive software that engages and targets the end-users, also well-versed in Python and SQL for scalable, efficient and performant solutions.</br></br>Currently focused in scripting using Bash, Python and Shell for automated software testing, continuous integration and deployment processes.</br></br>Meanwhile, collaborating across agile pace envronments teams has allowed me to dive deep into data structures to understand how to efficiently manage and organize large data sets for great project scalability (🚂,⛵) => (🚄,🚢)</p>
 </div>
 
 ###
