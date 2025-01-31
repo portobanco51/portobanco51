@@ -55,11 +55,20 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=selenium" height="45" alt="selenium logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=django" height="45" alt="django logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" height="40" alt="pytest logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=terraform" height="45" alt="terraform logo"  />
+  <img src="https://skillicons.dev/icons?i=docker" height="45" alt="docker logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=jenkins" height="45" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="45" alt="aws logo"  />
+  <img width="12" />
+</div>
+</br>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=postman" height="45" alt="postman logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="45" alt="git logo"  />
   <img width="12" />
