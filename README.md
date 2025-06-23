@@ -1,8 +1,13 @@
 <h1 align="center">Welcome to Marcelo's Github 💻</h1>
-
+<div align="center">
+  <a href="https://marceloportobanco.netlify.app" target="_blank">
+    <img src="https://github.com/user-attachments/assets/8db65c32-ba92-484a-b9fa-786359682a58" width="52" height="40" alt="portfolio logo"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/jonathan-portobanco" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"/>
+  </a>
+</div>
 <h2 align="left">👩‍💻  About Me</h2>
-
-###
 
 <img align="right" height="250px" src="https://github.com/portobanco51/portobanco51/assets/76289550/79543d12-e7ee-459c-b1ff-71b557f66500"  />
 
