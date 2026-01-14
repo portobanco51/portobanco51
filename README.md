@@ -48,6 +48,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="mysql logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="45" alt="mongodb logo"  />
+  <img width="12" />
 </div>  
 </br>
 <div align="center">
@@ -66,11 +68,13 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=jenkins" height="45" alt="mongodb logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="45" alt="aws logo"  />
+  <img src="https://skillicons.dev/icons?i=gcp" height="45" alt="gcp logo"  />
   <img width="12" />
 </div>
 </br>
 <div align="center">
+  <img src="https://skillicons.dev/icons?i=aws" height="45" alt="aws logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=postman" height="45" alt="postman logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
@@ -83,16 +87,4 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=githubactions" height="45" alt="githubactions logo"  />
   <img width="12" />
-</div>
-
-###
-
-<h2 align="left">📊 My Stats :</h2>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=portobanco51&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1&custom_title=Git+Stats" height= "175" alt="stats graph">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=portobanco51&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="175" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=portobanco51&locale=en&mode=weekly&theme=dracula&hide_border=true&border_radius=5&order=3" height="175" alt="streak graph" />
 </div>
