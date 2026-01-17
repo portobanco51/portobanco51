@@ -9,13 +9,14 @@
 </div>
 <h2 align="left">👩‍💻  About Me</h2>
 
-<img align="right" height="250px" src="https://github.com/portobanco51/portobanco51/assets/76289550/79543d12-e7ee-459c-b1ff-71b557f66500"  />
+<img align="right" height="220px" src="https://github.com/portobanco51/portobanco51/assets/76289550/79543d12-e7ee-459c-b1ff-71b557f66500" style="display: block;-webkit-user-select: none;margin: auto;" />
 
 ###
 
 <div align="left" width="200px" >
 
 <p align="left">Hi there! I've been working as a Software Engineer for over 4 years 👨🏽‍💻 innovating and optimizing software experiences across Windows and Linux operative systems.</br></br>Proficient using React and JavaScript features to build stunning and interactive software that engages and targets the end-users, also well-versed in Python and SQL for scalable, efficient and performant solutions.</br></br>Currently focused in scripting using Bash, Python and Shell for automated software testing, continuous integration and deployment processes.</br></br>Meanwhile, collaborating across agile paced teams has allowed me to deep dive into data structures to understand how to efficiently manage and organize large data sets for great project scalability (🚂,⛵) => (🚄,🚢)</p>
+
 </div>
 
 ###
@@ -25,7 +26,7 @@
 ###
 
 <div align="center">
-  <p align="center"><b>Full Stack:</b></p>
+  <h3 align="center"><b>Full Stack:</b></h3>
   <img src="https://skillicons.dev/icons?i=nextjs" height="45" alt="nextjs logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="45" alt="react logo"  />
@@ -53,7 +54,7 @@
 </div>  
 </br>
 <div align="center">
-  <p align="center"><b>Automation / DevOps:</b></p>
+  <h3 align="center"><b>Automation / DevOps:</b></h3>
   <img src="https://skillicons.dev/icons?i=linux" height="45" alt="linux logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=bash" height="45" alt="bash logo"  />
@@ -87,4 +88,14 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=githubactions" height="45" alt="githubactions logo"  />
   <img width="12" />
+</div>
+
+## 📊 My Stats
+
+<div align="center">
+  
+  ![](https://github-readme-stats.vercel.app/api?username=portobanco51&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
+  ![](https://nirzak-streak-stats.vercel.app/?user=portobanco51&theme=highcontrast&hide_border=false)<br/>
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=portobanco51&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+  
 </div>
