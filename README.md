@@ -15,7 +15,7 @@
 
 <div align="left" width="200px" >
 
-<p align="left">Hi there! I've been working as a Software Engineer for over 4 years 👨🏽‍💻 innovating and optimizing software experiences across Windows and Linux operative systems.</br></br>Proficient using React and JavaScript features to build stunning and interactive software that engages and targets the end-users, also well-versed in Python and SQL for scalable, efficient and performant solutions.</br></br>Currently focused in scripting using Bash, Python and Shell for automated software testing, continuous integration and deployment processes.</br></br>Meanwhile, collaborating across agile paced teams has allowed me to deep dive into data structures to understand how to efficiently manage and organize large data sets for great project scalability (🚂,⛵) => (🚄,🚢)</p>
+<p align="left">Hi there! I've been working as a Software Engineer for over 5 years, innovating and optimizing software experiences across Windows and Linux operative systems.</br></br>Proficient using React and JavaScript features to build stunning and interactive software that engages and targets the end-users, also well-versed in Python and SQL for scalable, efficient and performant solutions.</br></br>Currently focused in scripting using Bash, Python and Shell for automated software testing, continuous integration and deployment processes.</br></br>Meanwhile, collaborating across agile paced teams has allowed me to deep dive into data structures to understand how to efficiently manage and organize large data sets for great project scalability (🚂,⛵) => (🚄,🚢)</p>
 
 </div>
 
@@ -95,6 +95,6 @@
 <div align="center">
   
   ![](https://github-readme-stats.vercel.app/api?username=portobanco51&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)
-  ![](https://nirzak-streak-stats.vercel.app/?user=portobanco51&theme=highcontrast&hide_border=false)
+  ![](https://streak-stats.demolab.com?user=portobanco51&locale=en&mode=weekly&theme=highcontrast&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3)
   
 </div>
