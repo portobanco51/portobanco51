@@ -1,3 +1,4 @@
+<h1 align="center">Hey there — I'm Jonathan!</h1>
 <div align="center">
   <a href="https://marceloportobanco.netlify.app" target="_blank">
     <img src="https://github.com/user-attachments/assets/8db65c32-ba92-484a-b9fa-786359682a58" width="52" height="40" alt="portfolio logo" />
