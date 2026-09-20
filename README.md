@@ -1,21 +1,25 @@
-<h1 align="center">Welcome to Marcelo's Github 💻</h1>
 <div align="center">
   <a href="https://marceloportobanco.netlify.app" target="_blank">
-    <img src="https://github.com/user-attachments/assets/8db65c32-ba92-484a-b9fa-786359682a58" width="52" height="40" alt="portfolio logo"/>
-  </a>&nbsp;&nbsp;
+    <img src="https://github.com/user-attachments/assets/8db65c32-ba92-484a-b9fa-786359682a58" width="52" height="40" alt="portfolio logo" />
+  </a>
   <a href="https://linkedin.com/in/jonathan-portobanco" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"/>
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
   </a>
 </div>
-<h2 align="left">👩‍💻  About Me</h2>
 
-<img align="right" height="220px" src="https://github.com/portobanco51/portobanco51/assets/76289550/79543d12-e7ee-459c-b1ff-71b557f66500" style="display: block;-webkit-user-select: none;margin: auto;" />
+<h2 align="left">About Me</h2>
+
+<img align="right" height="220px" src="https://github.com/portobanco51/portobanco51/assets/76289550/79543d12-e7ee-459c-b1ff-71b557f66500" style="display: block;-webkit-user-select: none; margin: auto;" />
 
 ###
 
 <div align="left" width="200px" >
 
-<p align="left">Hi there! I've been working as a Software Engineer for over 5 years, innovating and optimizing software experiences across Windows and Linux operative systems.</br></br>Proficient using React and JavaScript features to build stunning and interactive software that engages and targets the end-users, also well-versed in Python and SQL for scalable, efficient and performant solutions.</br></br>Currently focused in scripting using Bash, Python and Shell for automated software testing, continuous integration and deployment processes.</br></br>Meanwhile, collaborating across agile paced teams has allowed me to deep dive into data structures to understand how to efficiently manage and organize large data sets for great project scalability (🚂,⛵) => (🚄,🚢)</p>
+<p align="left">Software Automation Engineer building reliable test frameworks — and, on the side, a few 3D user experiences.
+ 
+**By day:** SDET work in Python and Bash — Selenium, PyTest, and Cypress frameworks that validate APIs, UIs, and end-to-end workflows; CI/CD pipelines with GitHub Actions, Jenkins, and Docker across AWS/GCP.
+ 
+**On the side:** React.js + Three.js, building interactive, cross-browser 3D web apps (just like my [portfolio](https://marceloportobanco.netlify.app)) — full-stack PWAs with API integrations and robust test automation.</p>
 
 </div>
 
